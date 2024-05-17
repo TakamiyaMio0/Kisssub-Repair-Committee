@@ -1,4 +1,8 @@
 # Kisssub-Repair-Committee 爱恋修复委员会
+![png1](https://s3.bmp.ovh/imgs/2024/05/17/2c0dc50448722254.png)
+
+![png2](https://s3.bmp.ovh/imgs/2024/05/17/eb8d8149be8174b0.png)
+
 本项目是由 爱恋修复委员会 创建
 
 我们的工作：
